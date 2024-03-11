@@ -61,7 +61,7 @@ body{
 }
 .academicos h6{
   margin: 0;
-  font-size: small;
+  font-size: smaller;
 }
 p{
   font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -73,7 +73,12 @@ p{
   width:          1px;      
 }
 button{
-  background-color: #FDE5E0;
+  background-color: #FDE5E0;  
+  margin: 1em;
+}
+a {
+  color: inherit;
+  text-decoration: none;
 }
 .lado2 p{
   margin: 0;
