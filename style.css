@@ -97,6 +97,10 @@ a {
     width: 100%;
     padding: 0;
   }
+  .columna1{
+    padding: 2px;
+    border-radius: 25%;
+  }
   .imagen {
     text-align: center;
     margin-bottom: 10px;
